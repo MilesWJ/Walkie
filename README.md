@@ -1,5 +1,5 @@
 # Walkie
-A chat bot you can converse with.
+A chat bot you can converse with. This program utilizes a response system, meaning all of the responses are chosen at random based on what you say.
 
 # Required Packages
 - None, all standared libraries.
