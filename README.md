@@ -10,4 +10,4 @@ Execute the main.py file and type into the console. It's imperative that you use
 ![alt text](https://github.com/MilesWJ/Walkie/blob/0e8453f93c0bd097af2aa559c6118f9156a872e3/Walkie/Assets/ProgramWorking.gif)
 
 # Additional Notes
-Inspired by the Code Palace's tutorial: https://www.youtube.com/watch?v=Ea9jgBjQxEs
+None
